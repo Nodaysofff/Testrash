@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[GJ]]></data>
+
+
+
+  <data name="en_pano9_title"><![CDATA[Центральный вход]]></data>
+
+  <data name="en_panogroup12_title"><![CDATA[Group 12]]></data>
+
+  <data name="en_pano11_title"><![CDATA[Холл]]></data>
+  <data name="en_pano13_title"><![CDATA[Чайный бар]]></data>
+  <data name="en_pano50_title"><![CDATA[Первый зал]]></data>
+  <data name="en_pano17_title"><![CDATA[Проходная зона]]></data>
+  <data name="en_pano19_title"><![CDATA[Второй зал]]></data>
+  <data name="en_pano23_title"><![CDATA[VIP№1]]></data>
+  <data name="en_pano21_title"><![CDATA[VIP№2]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_dpadprevSceneTip"><![CDATA[Предыдущая панорама]]></data>
+  <data name="en_controlBar_dpadnextSceneTip"><![CDATA[Следующая панорама]]></data>
+  <data name="en_controlBar_dpadzoomInTip"><![CDATA[Приблизить ]]></data>
+  <data name="en_controlBar_dpadzoomOutTip"><![CDATA[Отдалить]]></data>
+  <data name="en_controlBar_dpadmoveLeftTip"><![CDATA[Влево]]></data>
+  <data name="en_controlBar_dpadmoveRightTip"><![CDATA[Вправо]]></data>
+  <data name="en_controlBar_dpadmoveUpTip"><![CDATA[Вверх]]></data>
+  <data name="en_controlBar_dpadmoveDownTip"><![CDATA[Вниз]]></data>
+  <data name="en_controlBar_dpadopenFsTip"><![CDATA[Полноэкранный режим]]></data>
+  <data name="en_controlBar_dpadcloseFsTip"><![CDATA[Выход из полноэкранного режима]]></data>
+  <data name="en_controlBar_dpadsoundsOnTip"><![CDATA[Включить звук]]></data>
+  <data name="en_controlBar_dpadsoundsOffTip"><![CDATA[Выключить звук]]></data>
+  <data name="en_controlBar_dpaddisplayHelpTip"><![CDATA[Показать помощь]]></data>
+  <data name="en_controlBar_dpadhideHelpTip"><![CDATA[Скрыть помощь]]></data>
+  <data name="en_controlBar_dpaddisplayControlsTip"><![CDATA[Показать панель управления]]></data>
+  <data name="en_controlBar_dpadhideControlsTip"><![CDATA[Скрыть панель управления]]></data>
+  <data name="en_controlBar_dpadctrlmodeDragTip"><![CDATA[Сменить тип управления]]></data>
+  <data name="en_controlBar_dpadctrlmodeMoveTip"><![CDATA[Сменить тип управления]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
